@@ -2,3 +2,4 @@
 venv
 .vscode
 Indexed_XML.xml
+workout_records.parquet.gzip
