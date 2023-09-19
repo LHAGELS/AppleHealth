@@ -1,7 +1,5 @@
 # ignore venv
-venv
+/venv
+/input_files
+/output_files
 .vscode
-Indexed_XML.xml
-workoutRecords.parquet.gzip
-workoutGeo.parquet.gzip
-workoutStatistics.parquet.gzip
