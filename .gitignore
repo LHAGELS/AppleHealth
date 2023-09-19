@@ -2,4 +2,6 @@
 venv
 .vscode
 Indexed_XML.xml
-workout_records.parquet.gzip
+workoutRecords.parquet.gzip
+workoutGeo.parquet.gzip
+workoutStatistics.parquet.gzip
