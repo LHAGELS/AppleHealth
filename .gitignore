@@ -1,2 +1,5 @@
 # ignore venv
-venv
+/venv
+/input_files
+/output_files
+/vscode
